@@ -15,3 +15,13 @@ SVM model accuracy - approx 60%
 
 next algorithm to apply - KNN, K-Means Clustering, Neural networks... etc
 SVM performance can be increased using unsupervised learning PCA algorithm 
+
+
+Next applied algorithm is KNN(K Nearest neighbours)
+Here accuracy increases to 65%
+below the new confusion maxtrix
+
+![image](https://github.com/user-attachments/assets/493c674b-68f5-4179-8e6f-7305271d5b7b)
+
+
+
