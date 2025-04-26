@@ -23,5 +23,11 @@ below the new confusion maxtrix
 
 ![image](https://github.com/user-attachments/assets/493c674b-68f5-4179-8e6f-7305271d5b7b)
 
+Next used model is KMeans Clustering, accuracy increases much more
+using sklearn evaluation matrix
+![image](https://github.com/user-attachments/assets/86d232a1-f59f-46a1-85b6-0d8e8f248db5)
+
+
+
 
 
